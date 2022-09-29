@@ -2,7 +2,7 @@
 Made analysis on spotify data and figured out few takeaways to become hit track on spotify.
 
 
-Which key elements helps to be the popular song in spotify?
+Which key elements helps to become popular song on spotify?
 
 The following elements must be taken care for a song to become a hit track on spotify:
 1. Length of the song: 250sec(Around 4 Min)
